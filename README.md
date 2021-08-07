@@ -1,4 +1,4 @@
-# Deploy WebApp with Node to Azure 
+# Deploy WebApp with Node to Azure  
 
 The purpose of this sample app is to **deploy a web app with Node** using an **Azure web app** in few easy steps:
 
